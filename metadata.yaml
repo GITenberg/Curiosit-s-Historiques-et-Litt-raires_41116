@@ -1,0 +1,29 @@
+_repo: Curiosit-s-Historiques-et-Litt-raires_41116
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41116-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Muller, Eugène
+    alias: Muller, Eugene
+    birthdate: 1826
+    deathdate: 1913
+    gutenberg_agent_id: '4127'
+    url: http://www.gutenberg.org/2009/agents/4127
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41116'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Miscellanea'
+- !lcc 'PN'
+- !lcsh 'Literary curiosa'
+title: Curiosités Historiques et Littéraires
+url: http://www.gutenberg.org/ebooks/41116
